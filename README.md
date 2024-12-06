@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjoossttyynn
 - 👀 I’m interested in Quentin and Destiny, Coding, ect 
-- 🌱 I’m currently learning Python and javascript and some KaliLinux 
-- 📫 How to reach me Intsgram : jjosstyn_
+- 🌱 I’m currently learning Python and Javascript and some KaliLinux 
+- 📫 How to reach me Instagram : jjosstyn_
 - ⚡ Fun fact: i love you 
 
 <!---
